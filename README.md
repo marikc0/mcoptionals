@@ -2,11 +2,17 @@ Marikc0's Optionals (Working Title)
 ===========
 
 Decorative Blocks:
+
 White Quartz (non-animated)
+
 Black Quartz (animated and non-animated)
+
 Burnt Quartz (Black)
+
 Single and 4 Pane Tinted Glass (experimental)
+
 Mob Face Blocks (Rare Item from Dungeon Chests)
+
 
 Lights:
 RS Light (RS support) (off position will make the light appear like other neighbor blocks))
