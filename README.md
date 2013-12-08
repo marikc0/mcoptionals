@@ -28,7 +28,7 @@ Egg Wrap (used in Sushi Roll recipe)
 
 FOOD:
 
-Manure (Rare Drop)
+Manure (Rare Drop 2%)
 
 Raw Salmon (Crafted from Fish)
 
