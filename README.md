@@ -44,6 +44,8 @@ Sushi Roll (Crafted from Raw Salmon, Carrot Slices, Egg Wrap/Seaweed(later) and 
 
 Zombie Cake (Crafted from Zombie Flesh, Spider Eye, Flour, Egg, Milk) (Is quite filling! Poisons the player)
 
+Rock Candy (Crafted from cobblestone, sugar mass and a stick)
+
 Adding: "Super Food" (fills most or all of the health bar/saturation, but more difficult to craft)
 
 
