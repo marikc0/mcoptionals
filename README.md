@@ -21,6 +21,11 @@ RS Light (RS support) (off position will make the light appear like other neighb
 Ender Light (experimental) (switching on one color of the light activates all of them)
 
 
+ITEMS:
+
+Egg Wrap (used in Sushi Roll recipe)
+
+
 FOOD:
 
 Manure (Rare Drop)
@@ -31,7 +36,7 @@ Cooked Salmon (Smelted Raw Salmon)
 
 Carrot Slices (Crafted from Carrot)
 
-Sushi Roll (Crafted from Raw Salmon, Carrot Slices, Egg Wrap and Rice)
+Sushi Roll (Crafted from Raw Salmon, Carrot Slices, Egg Wrap/Rice and Rice)
 
 
 CROPS:
