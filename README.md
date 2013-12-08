@@ -30,7 +30,7 @@ ITEMS:
 Egg Wrap (used in Sushi Roll recipe)
 
 
-FOOD:
+FOOD (set to be slightly better than vanilla food of similar types):
 
 Manure (Rare Drop 2%) (will display a server-wide chat message when a player eats it)
 
@@ -41,6 +41,8 @@ Cooked Salmon (Smelted Raw Salmon)
 Carrot Slices (Crafted from Carrot)
 
 Sushi Roll (Crafted from Raw Salmon, Carrot Slices, Egg Wrap/Seaweed(later) and Rice)
+
+Adding: "Super Food" (fills most or all of the health bar/saturation, but more difficult to craft)
 
 
 CROPS:
