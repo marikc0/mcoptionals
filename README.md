@@ -40,7 +40,7 @@ Cooked Salmon (Smelted Raw Salmon)
 
 Carrot Slices (Crafted from Carrot)
 
-Sushi Roll (Crafted from Raw Salmon, Carrot Slices, Egg Wrap/Rice and Rice)
+Sushi Roll (Crafted from Raw Salmon, Carrot Slices, Egg Wrap/Seaweed(later) and Rice)
 
 
 CROPS:
