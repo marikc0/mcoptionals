@@ -32,7 +32,7 @@ Egg Wrap (used in Sushi Roll recipe)
 
 FOOD:
 
-Manure (Rare Drop 2%)
+Manure (Rare Drop 2%) (will display a server-wide chat message when a player eats it)
 
 Raw Salmon (Crafted from Fish)
 
