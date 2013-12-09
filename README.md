@@ -46,6 +46,12 @@ Zombie Cake (Crafted from Zombie Flesh, Spider Eye, Flour, Egg, Milk) (Is quite 
 
 Rock Candy (Crafted from cobblestone, sugar mass and a stick)
 
+Cheese Wedge (Crafted from Milk)
+
+Monster Drink (Crafted from IC2 empty cell, water cell and sugar cube)
+
+Sugar Cube and Caramel (Crafted from 8 sugar and smelted to caramel. Can be crafted back to 8 sugar).
+
 Adding: "Super Food" (fills most or all of the health bar/saturation, but more difficult to craft)
 
 
