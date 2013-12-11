@@ -6,28 +6,18 @@ The current concept is on-going. I'm not really sure what the main purpose of th
 CURRENT & PLANNED FEATURES
 --------------------------
 
-DECORATIVE BLOCKS: White & Black Quartz, Animated Black Quartz, Single and Four Pane Tinted Glass
+- DECORATIVE BLOCKS: White & Black Quartz, Animated Black Quartz, Single and Four Pane Tinted Glass
+- LIGHTS: Redstone Chameleon Light (experimental) / Ender Light (experimental)
+- ORE: Anthracite
+- ITEMS: Anthracite Coal (high carbon content - extremely long burn).
+- FOOD COMPONENTS: Dough, Raw Salmon, Carrot Slices, Cheese Wedge, Sugar Cube, Caramel, Egg Wrap.
+- FOOD: Cooked Salmon, Sushi Roll, Zombie Cake, Rock Candy, Monster Drink
+- RARE DROPS: Manure, Face Blocks
+- CROPS: Rice, Red Bell Pepper, Hemp
+- FERTILIZER: Manure (MFR support)
 
+CONFIGURATION OPTIONS
+---------------------
 
-LIGHTS: Redstone Chameleon Light (experimental) / Ender Light (experimental)
-
-
-ORE: Anthracite
-
-
-ITEMS: Anthracite Coal (high carbon content - extremely long burn).
-
-
-FOOD COMPONENTS: Dough, Raw Salmon, Carrot Slices, Cheese Wedge, Sugar Cube, Caramel, Egg Wrap.
-
-
-FOOD: Cooked Salmon, Sushi Roll, Zombie Cake, Rock Candy, Monster Drink
-
-
-RARE DROPS: Manure, Face Blocks
-
-
-CROPS: Rice, Red Bell Pepper, Hemp
-
-
-FERTILIZER: Manure (MFR support)
+- Ore: Min & Max Height, Rarity, Drop Amount
+- 
