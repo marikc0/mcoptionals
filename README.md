@@ -19,5 +19,5 @@ CURRENT & PLANNED FEATURES
 CONFIGURATION OPTIONS
 ---------------------
 
-- Ore: Min & Max Height, Rarity, Drop Amount
-- 
+- Ore: Min & Max Height, Vein Rarity, Drop Amount, Vein Size
+- Rare Items: Drop Chance
