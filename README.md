@@ -12,7 +12,8 @@ LIGHTS: Redstone Chameleon Light (experimental) / Ender Light (experimental)
 
 ORE: Anthracite
 
-Items: Anthracite Coal (high carbon content - extremely long burn).
+
+ITEMS: Anthracite Coal (high carbon content - extremely long burn).
 
 
 FOOD COMPONENTS: Dough, Raw Salmon, Carrot Slices, Cheese Wedge, Sugar Cube, Caramel, Egg Wrap.
