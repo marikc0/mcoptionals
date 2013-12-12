@@ -42,4 +42,4 @@ POSSIBLE ADDITIONS
 ORIGINAL IDEAS (That I don't have the skill for yet)
 --------------
 - Forestry apiary glasses (be able to see what is in an apiary and see items/bees as they move to output, etc)
-- Leather skinning, drying, curing, etc system.
+- Leather skinning, drying, curing, etc system. Sounds fun, but I don't know what it could possibly be used for.
