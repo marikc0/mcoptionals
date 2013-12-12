@@ -35,6 +35,11 @@ DETAILED INFORMATION
 - Anthracite Coal: Basically, it burns better than any existing coal that you've likely seen in other mods. Also exceeding RailCraft coke by a little bit. The difference is that by default the coal is a rare find (about 2% spawn rate). You can turn it into a compressed coal block. From there, you will be able to compress it with IC2 and receive a diamond.
 - Rice Crop: Plant with one rice seed. Upon full growth you will receive between 2-3 seeds. The seeds themselves are rice. You create other items using the seeds (such as sushi). You will find the seeds in dungeon chests (and possibly as a drop from grass, assuming that the drop rate can be low enough to satisfy me).
 
-ORIGINAL IDEAS (That I don't have the skill for)
+POSSIBLE ADDITIONS
+------------------
+- Rare Chest: Cannot be broke by a pick. Possibly requires some kind of key entry system. You need to find a rare key. The keys may be colored. Each key fits a specific chest. Inside the chest is a random item(s). Similar to dungeon chests, but better loot and more of it. Maybe 1/2 stack of diamonds for example.
+
+ORIGINAL IDEAS (That I don't have the skill for yet)
+--------------
 - Forestry apiary glasses (be able to see what is in an apiary and see items/bees as they move to output, etc)
 - Leather skinning, drying, curing, etc system.
