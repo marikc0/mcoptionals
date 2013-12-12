@@ -17,6 +17,7 @@ CURRENT & PLANNED FEATURES
 - RARE DROPS: Manure, Face Blocks, Shrunken Heads (probably in a jar or on a stick).
 - CROPS: Rice, Red Bell Pepper, Hemp
 - FERTILIZER: Manure (MFR support)
+- IC2 / MFR additions: recipes, exclusive items, fertilizer, etc.
 
 CONFIGURATION OPTIONS
 ---------------------
