@@ -13,7 +13,7 @@ CURRENT & PLANNED FEATURES
 - ORE: Anthracite
 - ITEMS: Anthracite Coal (high carbon content - extremely long burn).
 - FOOD COMPONENTS: Dough, Raw Salmon, Carrot Slices, Cheese Wedge, Sugar Cube, Caramel, Egg Wrap.
-- FOOD: Cooked Salmon, Sushi Roll, Zombie Cake, Rock Candy, Monster Drink
+- FOOD: Cooked Salmon, Sushi Roll, Zombie Cake, Rock Candy, Monster Drink, Berties Bean (several random possibilities when eaten: large XP gain, instant death, set on fire, etc).
 - RARE DROPS: Manure, Face Blocks, Shrunken Heads (probably in a jar or on a stick).
 - CROPS: Rice, Red Bell Pepper, Hemp
 - FERTILIZER: Manure (MFR support)
