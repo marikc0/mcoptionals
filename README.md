@@ -21,3 +21,7 @@ CONFIGURATION OPTIONS
 
 - Ore: Min & Max Height, Vein Rarity, Drop Amount, Vein Size
 - Rare Items: Drop Chance
+- Chest Gen: Enable / Disable, rarity, Min or Max items spawned
+- External Mod Support: Enable / Disable
+- Recipes: Enable / Disable
+- Crops: Seed or Crop Drop Count
