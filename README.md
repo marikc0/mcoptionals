@@ -18,6 +18,7 @@ CURRENT & PLANNED FEATURES
 - CROPS: Rice, Red Bell Pepper, Hemp
 - FERTILIZER: Manure (MFR support)
 - IC2 / MFR additions: recipes, exclusive items, fertilizer, etc.
+- Mob Drops: Manure (Cow), Guano (Bats)
 
 CONFIGURATION OPTIONS
 ---------------------
