@@ -37,4 +37,4 @@ DETAILED INFORMATION
 
 ORIGINAL IDEAS (That I don't have the skill for)
 - Forestry apiary glasses (be able to see what is in an apiary and see items/bees as they move to output, etc)
-- Leather skinning, drying, etc system.
+- Leather skinning, drying, curing, etc system.
