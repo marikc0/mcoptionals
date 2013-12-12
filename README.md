@@ -15,7 +15,7 @@ CURRENT & PLANNED FEATURES
 - FOOD COMPONENTS: Dough, Raw Salmon, Carrot Slices, Cheese Wedge, Sugar Cube, Caramel, Egg Wrap.
 - FOOD: Cooked Salmon, Sushi Roll, Zombie Cake, Rock Candy, Monster Drink, Berties Bean (several random possibilities when eaten: large XP gain, instant death, set on fire, etc).
 - RARE DROPS: Manure, Face Blocks, Shrunken Heads (probably in a jar or on a stick).
-- CROPS: Rice, Red Bell Pepper, Hemp
+- CROPS: Rice
 - FERTILIZER: Manure (MFR support)
 - IC2 / MFR additions: recipes, exclusive items, fertilizer, etc.
 - Mob Drops: Manure (Cow), Guano (Bats)
