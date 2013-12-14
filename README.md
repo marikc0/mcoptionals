@@ -14,9 +14,9 @@ CURRENT & PLANNED FEATURES
 - ITEMS: Anthracite Coal (high carbon content - extremely long burn).
 - FOOD COMPONENTS: Dough, Raw Salmon, Carrot Slices, Cheese Wedge, Sugar Cube, Caramel, Egg Wrap.
 - FOOD: Cooked Salmon, Sushi Roll, Zombie Cake, Rock Candy, Monster Drink, Berties Bean (several random possibilities when eaten: large XP gain, instant death, set on fire, etc).
-- RARE DROPS: Manure, Face Blocks, Shrunken Heads (probably in a jar or on a stick).
-- CROPS: Rice
-- FERTILIZER: Manure (MFR support)
+- RARE DROPS: Manure, Shrunken Heads (probably in a jar or on a stick).
+- CROPS: Rice (craftable to paper or used in sushi recipe)
+- FERTILIZER: Manure, Guano (MFR support)
 - IC2 / MFR additions: recipes, exclusive items, fertilizer, etc.
 - Mob Drops: Manure (Cow), Guano (Bats)
 
@@ -39,7 +39,7 @@ POSSIBLE ADDITIONS
 ------------------
 - Rare Chest: Cannot be broke by a pick. Possibly requires some kind of key entry system. You need to find a rare key. The keys may be colored. Each key fits a specific chest. Inside the chest is a random item(s). Similar to dungeon chests, but better loot and more of it. Maybe 1/2 stack of diamonds for example.
 
-ORIGINAL IDEAS (That I don't have the skill for yet)
---------------
+POSSIBLE ADDITIONS
+------------------
 - Forestry apiary glasses (be able to see what is in an apiary and see items/bees as they move to output, etc)
 - Leather skinning, drying, curing, etc system. Sounds fun, but I don't know what it could possibly be used for.
